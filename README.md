@@ -50,4 +50,4 @@ The resulting data is saved to [cleaned_imdb_reviews.csv](./cleaned_imdb_reviews
 
 ## AI Assistance
 
-AI was used to help generate code suggestions for this assignment. I reviewed the suggestions, understood the Spark operations and data transformations, and then typed the code while working through the assignment.
+AI was used as a support tool while completing this assignment, including for code suggestions and project documentation. I reviewed and understood the Spark operations and data transformations, and then typed the code and worked through the assignment myself.
